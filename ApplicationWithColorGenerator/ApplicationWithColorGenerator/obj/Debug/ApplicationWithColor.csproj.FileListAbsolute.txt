@@ -1,0 +1,9 @@
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\bin\Debug\ApplicationWithColor.exe.config
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\bin\Debug\ApplicationWithColor.exe
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\bin\Debug\ApplicationWithColor.pdb
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.csprojResolveAssemblyReference.cache
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.Properties.Resources.resources
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.csproj.GenerateResource.Cache
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.exe
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.pdb
+C:\Users\Trim\Desktop\ApplicationWithColor\ApplicationWithColor\ApplicationWithColor\obj\Debug\ApplicationWithColor.Form1.resources

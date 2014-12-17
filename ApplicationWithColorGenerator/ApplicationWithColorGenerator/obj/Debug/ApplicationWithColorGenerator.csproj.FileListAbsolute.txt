@@ -1,0 +1,12 @@
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\ApplicationWithColorGenerator\bin\Debug\ApplicationWithColor.exe.config
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.exe
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.pdb
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\bin\Debug\ApplicationWithColor.exe.config
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.exe
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.pdb
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColorGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.Main.resources
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColor.Properties.Resources.resources
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\obj\Debug\ApplicationWithColorGenerator.csproj.GenerateResource.Cache
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\bin\Debug\ApplicationWithColor.exe
+C:\Users\Trim\Desktop\ApplicationWithColorGenerator\ApplicationWithColorGenerator\bin\Debug\ApplicationWithColor.pdb
